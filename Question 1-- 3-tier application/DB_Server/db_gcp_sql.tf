@@ -32,7 +32,7 @@ resource "google_sql_database" "database" {
 resource "google_sql_user" "users" {
   name     = "root"
   instance = google_sql_database_instance.sql_db.name
-  password = "sql-wp@&A#"
+  password = "wsdf2112"
 }
 
 output "uname" {

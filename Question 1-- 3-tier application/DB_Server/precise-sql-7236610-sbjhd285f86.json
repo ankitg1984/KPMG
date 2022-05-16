@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "precise-mystery-336610",
+  "private_key_id": "2b4722985f8614ca743346b6d05132c8518a00e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCtpf/xZtMWSYtp\nm8XjQnG5Fm+deEWzcM+jSi09BWR0Fmab2Wv+a2ZlJXkczg5IZaezLgE5/D0q1aem\n5Pr0EHogftcA2rs8LaNeeEYGBlQjO/y2G2VseHwPlcNhy7ifALQV8zkQJXA86EPZ\nbE/Bh0hculNWp8dPjY3alzyH+gKtDeNkYeCs6sssqmQbs8mTdMoBXpWta1S0mtyf\nW4Ys8pqGIkW5hwcGdmzD8bS2oARnLfryM+ETvaInR3fISZ/eLBz7m7CA2RfacGzW\nQC7gluRqtOdlQfxePbyB3dG7UEteNffoXYDL/uNJMf3h6NRmbfIn2RcjfnSh15N7\nP+eIYHPVAgMBAAECggEACd9cM89SxPudb32pvIf0iz9ZTSyfWdpaE8CN3eBGm8sC\nPm4YE7jrc2i0AA0/BqKw7CD7dN6AY8UN6REvq1ycdOiBNM06w+scVKyl3oXRlsc8\nUOYx1/7pnsE3AIJilrelhXH0lpRqUywpX10nE6urU4pMXqrfTAiSPhFHIbv3FvuR\nJBop4ovuYyHEGg++Weuo92yjDSPf0Wz6GyRjLnpwWsS7GhKBniogjS5T0ZBsrTab\n5b3E4U6ZHeXMcuFBeI1CEODUFosbO7AW8WPHa0nCp2ksrBqSIAM6To0sZWyamWqr\nw37hjRHIAUXE1KbGhycY1CRea/SeIQcA0WM/FM/RwQKBgQDfid6UAakSKX9mKoXr\nMTU7qZIj1kLevW7rYex7MhOr5/k0veofBibC/2ecikg7SMmOsjdc7KtBXTAnNE5T\nV0rXOaDKU5+0eLfx6Bq5dM7HfsAMSRkccr/3+8+ZPMbeHs+nYgZOsvUTE9zqNDfR\n2FPFv3Kg1vxYdVv0reRGCAqPeQKBgQDG3XJC3SZzaJFqyO2H+WbLjfdsFZ4FMp3j\nw+1NkNByUE9p1XBn4uwgijdNol0g0B23ZALuktbZZ12lc9jr8Fzmy8/1v1lrtZbF\nTmxO30PJ2Ascbj9B2uinIerXKjvsoLzw38CE9gtAQ8a1y/MGRSltdNKRNaBVxiuE\n8RSxkxlkPQKBgEOul9DSa+GO5P8HEwMyI/8Lia8GGbsdOi9Ut+hZMjGTjBXXBsMb\n9rKF6FYyXEpu8HAfL7oYAoZI8+J66Ng9DvD5huCbzzgycOdyslzCrDUlAHr3yv2d\nFNi9yo6II2Jvi8oPWP+NGb0L/5B9/QSxbjPqkod2cHNMHWqJGBvIJYJpAoGBALXb\ndM4opy0LB1B8Bpw+Ov8TCJzS9/sQ2sqbNbulHrorLzQ9d9nI7t6jBwf73uZO6531\n26iIp+mQWVcgpdK9sHdvEvJM1l1lZkdw/CL0kW1YIHETcM2sfu24WqYBfWNbau1r\n8QamaouOb3140Pl+7e+m0ZjxTXqjCtE8Fgx91M6RAoGBAICwwIR6hUwmF/Klu4sb\np6wZh7YT6KaDlIOT+urqz41IaYakLJnoftB1KriCO3O36TeezSlt6CqPAieL8zVX\n+RU0ms6NL5aq5KRht4UZc5e5QnuCO6nniP7zbGT6Lbu8ui0rBpnVOWiHE5GrcLeV\nSaATUYyOBkpGeuzh5rfKdnwq\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-terraform-3-tier@precise-mystery-336610.iam.gserviceaccount.com",
+  "client_id": "100911748687828507719",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-terraform-3-tier%40precise-mystery-336610.iam.gserviceaccount.com"
+}

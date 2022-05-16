@@ -1,3 +1,4 @@
+# App tier will on GKE 
 module "AppServer" {
   source = "./App_Server"
   sql_vpc_id = module.DBServer.sql_vpc_id

@@ -1,5 +1,5 @@
 provider "google" {
- credentials = file("./DB_Server/db_key.json")
- project     = "dev-12-proj-34"
+ credentials = file("precise-sql-7236610-sbjhd285f86.json")
+ project     = "precise-sql-7236610"
  region      = "asia-southeast1"
 }

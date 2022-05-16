@@ -1,4 +1,4 @@
-Strategy for 3-tier architecture in GCP.
+**Strategy for 3-tier architecture in GCP.**
 There will below layer/tier will be created by terraform files.
 
 Web, App, DB

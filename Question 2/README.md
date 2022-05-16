@@ -3,9 +3,7 @@
 For more information on Google Cloud meta-data, refer to the documentation at
 https://cloud.google.com/compute/docs/storing-retrieving-metadata
 
-## Prerequisites
-1. Linux Environment running on GCP
-2. curl package
+Need Linux google compute engine instance running on GCP
 
 ## Usage
 ```
